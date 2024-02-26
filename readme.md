@@ -189,6 +189,7 @@ todo
 ```
 3D绘画部分由[星辰大海MFA](https://www.bilibili.com/video/BV1U2421F7Sr)分享的绘制立体图形的代码移植。
 
+本代码开源协议为MIT。
 
 ---
 
